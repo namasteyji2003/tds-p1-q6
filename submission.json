@@ -1,0 +1,6 @@
+{
+  "prompt": "Close-up editorial photograph in a high-end tailor's atelier. A bespoke suit jacket hangs on a tailor's dummy, covered in an extraordinary number of hand-stitched custom seams, elaborate darts, and precise tucks tracking every individual contour of one specific body. The craftsmanship is obsessive and excessive. Beside it, a second tailor's dummy with a slightly different body shape — the same jacket has been placed on it and is clearly unwearable, pulling, puckering, and distorting badly because the fit is too precisely made for someone else entirely. The contrast between the two dummies is stark and immediate. Warm atelier window light from the left. Editorial fashion photography style. Photorealistic. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements, no neural network visualisations, no data flow arrows, no UI elements, no screen displays, no infographic elements. Everything in the scene must be a physical object that could exist in the real world.",
+  "model": "Gemini Image Generation",
+  "concept": "overfitting",
+  "metaphor": "A bespoke suit fitted so precisely to one body that it fails completely on any other. Excessive precision on training examples causes total failure to generalise."
+}
